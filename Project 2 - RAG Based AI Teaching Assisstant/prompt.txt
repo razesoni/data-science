@@ -1,0 +1,7 @@
+I am teaching web development using Sigma web development course. Here are video subtitle chunks containing video title, video number,start time in seconds, end time in seconds, the text at that time:
+
+{"title":{"125":"SEO and Core Web Vitals in HTML Sigma Web Development","314":"Inline Block Elements in HTML Sigma Web Development","433":"Image Lists and Tables in HTML Sigma Web Development","678":"Heading Paragraphs and Links Sigma Web Development Course","289":"Inline Block Elements in HTML Sigma Web Development"},"number":{"125":"02","314":"04","433":"05","678":"07","289":"04"},"start":{"125":154.0,"314":104.0,"433":50.0,"678":99.6,"289":9.96},"end":{"125":156.0,"314":107.0,"433":52.0,"678":101.2,"289":13.4},"text":{"125":" Now what is the definition of CLS?","314":" You might think that I haven't studied CSS, why am I adding CSS?","433":" What is image in HTML?","678":" If I write css, I'll put it here","289":" This is also called display property which can be set through CSS"}}
+-------------------------------------------------------
+
+"what is css"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format , its just for you) where and how much content is taught in which video (in which video and and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course

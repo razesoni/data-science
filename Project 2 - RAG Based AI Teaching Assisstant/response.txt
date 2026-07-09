@@ -1,0 +1,7 @@
+I'd be happy to help you with your web development questions.
+
+You asked "what is css" - Unfortunately, CSS isn't directly discussed in any of the provided video chunks. However, we do have some relevant content about it.
+
+We covered a brief introduction to CSS in Video 314, where you learned about inline block elements. If you'd like to learn more about CSS, I recommend checking out Video 314: "Inline Block Elements in HTML Sigma Web Development". It covers the basics of CSS and how to use it for styling your HTML content.
+
+If you have any questions about inline block elements or how to apply CSS styles to your HTML code, feel free to ask!

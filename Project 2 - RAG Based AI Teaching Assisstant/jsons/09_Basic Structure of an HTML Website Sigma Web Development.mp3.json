@@ -1,0 +1,320 @@
+{
+    "chunks": [
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 0.0,
+            "end": 3.7600000000000002,
+            "text": " What's up guys, you guys are back in the Sigma Web Development course"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 3.7600000000000002,
+            "end": 7.44,
+            "text": " I'm really very happy that you guys have given so much love to this course"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 7.44,
+            "end": 9.44,
+            "text": " Like this course with high energy"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 9.44,
+            "end": 13.120000000000001,
+            "text": " Because for this Sigma free course, Sigma chats are the best choice"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 13.120000000000001,
+            "end": 17.6,
+            "text": " In today's video, I'll explain the basic structure of a website"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 17.6,
+            "end": 20.8,
+            "text": " Along with that, I'll tell you guys a mobile trick"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 20.8,
+            "end": 25.76,
+            "text": " With which you guys will know how to preview your websites on your phone"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 25.76,
+            "end": 28.64,
+            "text": " I have a request from you guys, write it in the comment section"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 28.64,
+            "end": 30.64,
+            "text": " And tell me if you know HTML"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 30.64,
+            "end": 32.64,
+            "text": " That will help me structure this course better"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 32.64,
+            "end": 35.6,
+            "text": " In this video, I'll tell you guys the impact of ChatGPD"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 35.6,
+            "end": 38.4,
+            "text": " Because there are a lot of talks going on about ChatGPD"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 38.4,
+            "end": 41.2,
+            "text": " In the upcoming videos, I'll be giving you guys quizzes"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 41.2,
+            "end": 43.2,
+            "text": " So understand this video very carefully"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 43.2,
+            "end": 44.480000000000004,
+            "text": " And learn all the concepts"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 44.480000000000004,
+            "end": 46.0,
+            "text": " Let's go to the computer screen"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 46.0,
+            "end": 48.0,
+            "text": " Let's roll the intro"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 56.0,
+            "end": 58.0,
+            "text": " So guys, I've come inside my computer screen"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 58.0,
+            "end": 64.56,
+            "text": " Now, we'll talk about how to open, close, and structure a website"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 64.56,
+            "end": 68.08,
+            "text": " So in this folder, I'll create a folder called Video3"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 68.08,
+            "end": 70.08,
+            "text": " Click on New, then Video3"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 70.08,
+            "end": 73.76,
+            "text": " And in the folder, right click on the shift and open with code"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 73.76,
+            "end": 77.68,
+            "text": " And you can see here that my theme is blue"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 77.68,
+            "end": 79.68,
+            "text": " And a lot of people have said that blue theme is not good"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 79.68,
+            "end": 81.68,
+            "text": " But the theme is our choice"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 81.68,
+            "end": 86.72,
+            "text": " If you want to change your theme, you can change your theme"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 86.72,
+            "end": 88.72,
+            "text": " If you want to use GitHub's dark theme, you can use GitHub's dark theme"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 88.72,
+            "end": 90.72,
+            "text": " It's your choice"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 90.72,
+            "end": 94.72,
+            "text": " To create a new file, I'll add index.html"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 94.72,
+            "end": 96.72,
+            "text": " We've already talked about this"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 96.72,
+            "end": 98.72,
+            "text": " If I write the title of the page"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 98.72,
+            "end": 100.72,
+            "text": " And here I write the content"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 100.72,
+            "end": 102.72,
+            "text": " And here I can use the link tag"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 102.72,
+            "end": 104.72,
+            "text": " And here I can use Emmet"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 104.72,
+            "end": 106.72,
+            "text": " And I can link style.css"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 106.72,
+            "end": 110.72,
+            "text": " I'm doing this so fast because we've already talked about this in the previous video"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 110.72,
+            "end": 112.72,
+            "text": " And here if I write script.js"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 112.72,
+            "end": 114.72,
+            "text": " And here I write alert hello"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 114.72,
+            "end": 116.72,
+            "text": " So I won't tell you again and again"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 116.72,
+            "end": 118.72,
+            "text": " That if I put a script tag here"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 118.72,
+            "end": 120.72,
+            "text": " Before the body"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 120.72,
+            "end": 124.72,
+            "text": " And after that I put a script.js"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 124.72,
+            "end": 128.72,
+            "text": " And then here I click here and open with browser"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 128.72,
+            "end": 130.72,
+            "text": " So this will come hello"
+        },
+        {
+            "number": "09",
+            "title": "Basic Structure of an HTML Website Sigma Web Development",
+            "start": 130.72,
+            "end": 132.72,
+            "text": " And here if I put a body"
+        }
+    ],
+    "text": " What's up guys, you guys are back in the Sigma Web Development course I'm really very happy that you guys have given so much love to this course Like this course with high energy Because for this Sigma free course, Sigma chats are the best choice In today's video, I'll explain the basic structure of a website Along with that, I'll tell you guys a mobile trick With which you guys will know how to preview your websites on your phone I have a request from you guys, write it in the comment section And tell me if you know HTML That will help me structure this course better In this video, I'll tell you guys the impact of ChatGPD Because there are a lot of talks going on about ChatGPD In the upcoming videos, I'll be giving you guys quizzes So understand this video very carefully And learn all the concepts Let's go to the computer screen Let's roll the intro So guys, I've come inside my computer screen Now, we'll talk about how to open, close, and structure a website So in this folder, I'll create a folder called Video3 Click on New, then Video3 And in the folder, right click on the shift and open with code And you can see here that my theme is blue And a lot of people have said that blue theme is not good But the theme is our choice If you want to change your theme, you can change your theme If you want to use GitHub's dark theme, you can use GitHub's dark theme It's your choice To create a new file, I'll add index.html We've already talked about this If I write the title of the page And here I write the content And here I can use the link tag And here I can use Emmet And I can link style.css I'm doing this so fast because we've already talked about this in the previous video And here if I write script.js And here I write alert hello So I won't tell you again and again That if I put a script tag here Before the body And after that I put a script.js And then here I click here and open with browser So this will come hello And here if I put a body"
+}

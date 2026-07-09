@@ -1,0 +1,593 @@
+{
+    "chunks": [
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 0.0,
+            "end": 5.6000000000000005,
+            "text": " In today's video we will learn how to use audio, video and media elements in html"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 5.6000000000000005,
+            "end": 10.6,
+            "text": " In our very first video we saw that we can embed videos in html"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 10.6,
+            "end": 13.4,
+            "text": " Today I will tell you how to play the video"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 13.4,
+            "end": 15.4,
+            "text": " How to keep the video muted"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 15.4,
+            "end": 19.900000000000002,
+            "text": " And how to enable and disable the video controls"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 19.900000000000002,
+            "end": 22.6,
+            "text": " Along with that we will see about audio closely"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 22.6,
+            "end": 25.5,
+            "text": " How to show media in an overall page"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 25.5,
+            "end": 28.6,
+            "text": " So do like this video and stay tuned"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 28.6,
+            "end": 32.800000000000004,
+            "text": " Because the examples I have used for video tags are very interesting"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 32.800000000000004,
+            "end": 35.300000000000004,
+            "text": " Let's go to the computer screen and roll the intro"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 44.300000000000004,
+            "end": 47.3,
+            "text": " Friends, this time I have made a folder named video10"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 47.3,
+            "end": 51.3,
+            "text": " And I will not waste your time by opening the code and clicking shift right"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 51.3,
+            "end": 53.8,
+            "text": " Infact I will make it in index.html"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 53.8,
+            "end": 56.8,
+            "text": " And the topic of today's video is video"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 57.0,
+            "end": 61.0,
+            "text": " How to play video in an html file"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 61.0,
+            "end": 66.0,
+            "text": " How to insert video, audio and media"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 66.0,
+            "end": 68.5,
+            "text": " So adding video is very straightforward"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 68.5,
+            "end": 73.5,
+            "text": " I will copy this video tag which has an src attribute"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 73.5,
+            "end": 75.5,
+            "text": " And there are some other attributes of this tag"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 75.5,
+            "end": 77.5,
+            "text": " Which I will discuss with you guys"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 77.5,
+            "end": 79.5,
+            "text": " But first of all I want to tell you that"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 79.5,
+            "end": 81.5,
+            "text": " Video src is equal to video.mp4"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 81.5,
+            "end": 84.5,
+            "text": " So if you have video.mp4 then it will play"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 85.2,
+            "end": 88.2,
+            "text": " So let's see I have added video.mp4"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 88.2,
+            "end": 91.2,
+            "text": " And I will preview it by clicking here"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 91.2,
+            "end": 93.2,
+            "text": " And you can see that the video is ready"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 93.2,
+            "end": 96.2,
+            "text": " Now this is a very big video"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 96.2,
+            "end": 98.2,
+            "text": " So I can give its width"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 98.2,
+            "end": 101.2,
+            "text": " So I can say that width is equal to 555 pixels"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 101.2,
+            "end": 104.2,
+            "text": " And as soon as I do 555 pixels"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 104.2,
+            "end": 106.2,
+            "text": " Infact I don't need to write px"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 106.2,
+            "end": 107.2,
+            "text": " I will just do 555"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 107.2,
+            "end": 109.2,
+            "text": " As soon as we don't need to write px in image"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 109.2,
+            "end": 111.2,
+            "text": " We don't need to write px here as well"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 111.9,
+            "end": 114.9,
+            "text": " So as soon as I do width equal to 555"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 114.9,
+            "end": 115.9,
+            "text": " I will do a thing"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 115.9,
+            "end": 117.9,
+            "text": " I will do height equal to 555"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 117.9,
+            "end": 118.9,
+            "text": " So that it becomes smaller"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 118.9,
+            "end": 119.9,
+            "text": " Infact I will make it smaller"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 119.9,
+            "end": 121.9,
+            "text": " I will do 255"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 121.9,
+            "end": 122.9,
+            "text": " And you can see it is here"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 122.9,
+            "end": 123.9,
+            "text": " Now I will play it"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 123.9,
+            "end": 124.9,
+            "text": " Because I have control over it"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 124.9,
+            "end": 125.9,
+            "text": " I can play it"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 125.9,
+            "end": 127.9,
+            "text": " Look here, there is a good road from America"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 127.9,
+            "end": 128.9,
+            "text": " What's your name?"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 128.9,
+            "end": 129.9,
+            "text": " Kupendra Jogi"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 129.9,
+            "end": 130.9,
+            "text": " Where have you been in the US?"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 130.9,
+            "end": 131.9,
+            "text": " I have been to many places in the US"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 131.9,
+            "end": 132.9,
+            "text": " What's your name?"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 132.9,
+            "end": 133.9,
+            "text": " Kupendra Jogi"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 133.9,
+            "end": 137.9,
+            "text": " So you can play video like this"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 137.9,
+            "end": 139.9,
+            "text": " Now there are some attributes of video tag"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 140.6,
+            "end": 141.6,
+            "text": " It is very easy to use video tag"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 141.6,
+            "end": 143.6,
+            "text": " You should have a video"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 143.6,
+            "end": 144.6,
+            "text": " You have to give a path of video"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 144.6,
+            "end": 146.6,
+            "text": " After that you have to select control"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 146.6,
+            "end": 147.6,
+            "text": " So you will get controls"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 147.6,
+            "end": 148.6,
+            "text": " You can download it"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 148.6,
+            "end": 149.6,
+            "text": " You can full screen it"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 149.6,
+            "end": 150.6,
+            "text": " You can mute it"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 150.6,
+            "end": 152.6,
+            "text": " You can do picture in picture"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 152.6,
+            "end": 154.6,
+            "text": " All this is provided by your browser"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 154.6,
+            "end": 156.6,
+            "text": " But let me tell you about some attributes"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 156.6,
+            "end": 157.6,
+            "text": " First attribute is src"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 157.6,
+            "end": 158.6,
+            "text": " So you must be knowing"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 158.6,
+            "end": 159.6,
+            "text": " Put the video here"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 159.6,
+            "end": 161.6,
+            "text": " The name of the video file is src"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 161.6,
+            "end": 164.6,
+            "text": " This video file can also come from external url"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 164.6,
+            "end": 168.6,
+            "text": " If I have uploaded a video on Amazon s3"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 169.29999999999998,
+            "end": 170.29999999999998,
+            "text": " I can also put the url there"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 170.29999999999998,
+            "end": 172.29999999999998,
+            "text": " It is not necessary that the video file"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 172.29999999999998,
+            "end": 174.29999999999998,
+            "text": " can be on your computer or server"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 174.29999999999998,
+            "end": 176.29999999999998,
+            "text": " It can also come from third party"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 176.29999999999998,
+            "end": 177.29999999999998,
+            "text": " Now what are the controls?"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 177.29999999999998,
+            "end": 178.29999999999998,
+            "text": " Adds video controls"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 178.29999999999998,
+            "end": 179.29999999999998,
+            "text": " Like play, pause and volume"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 179.29999999999998,
+            "end": 181.29999999999998,
+            "text": " Which we have seen in the video"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 181.29999999999998,
+            "end": 185.29999999999998,
+            "text": " That you are getting controls here"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 185.29999999999998,
+            "end": 188.29999999999998,
+            "text": " Now the browser automatically sees"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 188.29999999999998,
+            "end": 191.29999999999998,
+            "text": " What will be the control and what will not be in your video"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 191.29999999999998,
+            "end": 193.29999999999998,
+            "text": " Then it will automatically play"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 193.29999999999998,
+            "end": 195.29999999999998,
+            "text": " As soon as the page is loaded"
+        },
+        {
+            "number": "01",
+            "title": "Audio Media in HTML Sigma Web Development",
+            "start": 195.3,
+            "end": 197.0,
+            "text": " So if I press auto play"
+        }
+    ],
+    "text": " In today's video we will learn how to use audio, video and media elements in html In our very first video we saw that we can embed videos in html Today I will tell you how to play the video How to keep the video muted And how to enable and disable the video controls Along with that we will see about audio closely How to show media in an overall page So do like this video and stay tuned Because the examples I have used for video tags are very interesting Let's go to the computer screen and roll the intro Friends, this time I have made a folder named video10 And I will not waste your time by opening the code and clicking shift right Infact I will make it in index.html And the topic of today's video is video How to play video in an html file How to insert video, audio and media So adding video is very straightforward I will copy this video tag which has an src attribute And there are some other attributes of this tag Which I will discuss with you guys But first of all I want to tell you that Video src is equal to video.mp4 So if you have video.mp4 then it will play So let's see I have added video.mp4 And I will preview it by clicking here And you can see that the video is ready Now this is a very big video So I can give its width So I can say that width is equal to 555 pixels And as soon as I do 555 pixels Infact I don't need to write px I will just do 555 As soon as we don't need to write px in image We don't need to write px here as well So as soon as I do width equal to 555 I will do a thing I will do height equal to 555 So that it becomes smaller Infact I will make it smaller I will do 255 And you can see it is here Now I will play it Because I have control over it I can play it Look here, there is a good road from America What's your name? Kupendra Jogi Where have you been in the US? I have been to many places in the US What's your name? Kupendra Jogi So you can play video like this Now there are some attributes of video tag It is very easy to use video tag You should have a video You have to give a path of video After that you have to select control So you will get controls You can download it You can full screen it You can mute it You can do picture in picture All this is provided by your browser But let me tell you about some attributes First attribute is src So you must be knowing Put the video here The name of the video file is src This video file can also come from external url If I have uploaded a video on Amazon s3 I can also put the url there It is not necessary that the video file can be on your computer or server It can also come from third party Now what are the controls? Adds video controls Like play, pause and volume Which we have seen in the video That you are getting controls here Now the browser automatically sees What will be the control and what will not be in your video Then it will automatically play As soon as the page is loaded So if I press auto play"
+}
